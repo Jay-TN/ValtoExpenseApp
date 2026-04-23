@@ -1,0 +1,39 @@
+CanvasApp:
+  Name: craed_expensetrackingappcopyfinal_1b415
+  AppVersion: 2026-04-23T03:04:29.0000000Z
+  Status: Ready
+  CreatedByClientVersion: 3.26042.14.0
+  MinClientVersion: 3.26042.14.0
+  Tags: '{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.26042.14","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","m365CopilotSettingValue":"0","sienaVersion":"20260420T153639Z-3.26041.15.0"}'
+  IsCdsUpgraded: 0
+  GalleryItemId:
+    '@xsi:nil': true
+    '@xmlns:xsi': http://www.w3.org/2001/XMLSchema-instance
+  BackgroundColor: RGBA(0,176,240,1)
+  DisplayName: Expense Tracking App Copy Final
+  Description: Touch ups to admin and edit pages
+  CommitMessage:
+    '@xsi:nil': true
+    '@xmlns:xsi': http://www.w3.org/2001/XMLSchema-instance
+  Publisher:
+    '@xsi:nil': true
+    '@xmlns:xsi': http://www.w3.org/2001/XMLSchema-instance
+  AuthorizationReferences: '[]'
+  ConnectionReferences: '{"ce07abfa-7cd3-447f-8788-30a264977d37":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1769/1.0.1769.4361/sharepointonline/icon.png","dataSources":["User","Expenses","Currency","Category","Approval"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://jexenhq.sharepoint.com":{"dataSources":{"User":{"tableName":"b419f528-4309-4923-91e5-51dc151437cf"},"Expenses":{"tableName":"cf52755e-1564-4ec1-b0dc-3e69c47e075f"},"Currency":{"tableName":"15a4b61b-4f08-41ad-b93e-27b171d6ea5e"},"Category":{"tableName":"68c5a1fd-4b48-4f14-95e1-7814407261d6"},"Approval":{"tableName":"76345812-1784-4b2e-bb07-8117ddf72594"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read","providers/PowerPlatform.Governance/Operations/Write","providers/PowerPlatform.Governance/Operations/Delete"]}}'
+  DatabaseReferences: '{}'
+  AppComponents: '[]'
+  AppComponentDependencies: '[]'
+  CanConsumeAppPass: 1
+  CanvasAppType: 0
+  BypassConsent: 0
+  AdminControlBypassConsent: 0
+  EmbeddedApp:
+    '@xsi:nil': true
+    '@xmlns:xsi': http://www.w3.org/2001/XMLSchema-instance
+  IntroducedVersion: 1.0
+  CdsDependencies: '{"cdsdependencies":[]}'
+  IsCustomizable: 1
+  BackgroundImageUri: /canvasapps/craed_expensetrackingappcopyfinal_1b415/craed_expensetrackingappcopyfinal_1b415_BackgroundImageUri
+  DocumentUri: /canvasapps/craed_expensetrackingappcopyfinal_1b415/craed_expensetrackingappcopyfinal_1b415_DocumentUri.msapp
+  AdditionalUris:
+    AdditionalUri: /canvasapps/craed_expensetrackingappcopyfinal_1b415/craed_expensetrackingappcopyfinal_1b415_AdditionalUris0_identity.json
